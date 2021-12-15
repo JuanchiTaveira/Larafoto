@@ -98,6 +98,8 @@
                                 </button>
                             </div>
                         </div>
+
+                        <input id='image' type="hidden" value="{{ asset('img/avatar1.png') }}">
                     </form>
                 </div>
             </div>

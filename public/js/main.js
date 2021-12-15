@@ -1,6 +1,6 @@
 window.addEventListener("load", function () {
 
-    var url = "http://proyecto-laravel.com";
+    var url = "http://larafoto.com";
 
     $('.btn-like').css('cursor', 'pointer');
     $('.btn-dislike').css('cursor', 'pointer');
