@@ -36,8 +36,7 @@
                                 class="">
                         </div>
 
-                        <div class="
-                                likes-detail">
+                        <div class="likes-detail">
 
                             {{-- Compruebo si el user le dio like a la imagen --}}
 
