@@ -9,6 +9,5 @@
 
 ## Larafoto
 
-- Ésta es una imitacion de Instagram desarollada por Juan Taveira. 
-- Para que funcione correctamente es necesario crear un host virtual con la url http://larafoto.com que redireccione a la carpeta 'public' de este proyecto. 
+- Ésta es una imitacion de Instagram desarollada por Juan Taveira.
 - Desarrolado con Laravel 8.
